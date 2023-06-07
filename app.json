@@ -2,6 +2,7 @@
   "expo": {
     "name": "rocketseat-nlw-12-spacetime-mobile",
     "slug": "rocketseat-nlw-12-spacetime-mobile",
+    "scheme": "nlw-spacetime",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
