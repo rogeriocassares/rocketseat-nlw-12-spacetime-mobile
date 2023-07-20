@@ -1,3 +1,13 @@
 # rocketseat-nlw-12-spacetime-mobile
 
-Stage 5 00:22
+```bash
+npm run start
+```
+
+TODO:
+  * Edição da memória
+  * Link para compartilhamento (se for pública)
+  * Selecionar data da memória (expo dateTimePicker / datePicker / input type date)
+  * Layout responsivo
+
+
